@@ -1,5 +1,5 @@
 # BG8_multi_omics
-This repository provides supporting information for the manuscript "Transcriptomic and metabolomic responses to different carbon and nitrogen sources in Methylomicrobium album BG8", which has been submitted for peer review.
+This repository provides supporting information for the manuscript "Transcriptomic and metabolomic responses to different carbon and nitrogen sources in Methylomicrobium album BG8", which has been submitted for peer review and is posted on biorchiv: https://doi.org/10.1101/2021.02.18.431927
 
 - "bg8_analysis_script" provides the R code to reproduce all analyses and statistical tests.
 - "bg8_figures" provides the R code to reproduce all figures. It requires objects produced by the analysis code.
